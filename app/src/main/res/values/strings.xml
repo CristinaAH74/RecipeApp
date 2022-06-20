@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="txt_label">Label</string>
+    <string name="txt_mealType">MealType</string>
+    <string name="txt_yield">yield</string>
+    <string name="txt_calories">calories</string>
+    <string name="txt_weight">totalWeight</string>
+    <string name="recipe_image">Recipe Image</string>
+    <string name="search_your_recipes">Search Your Recipes…</string>
+    <string name="meal_categories">Meal Categories</string>
+    <string name="category">Category</string>
+    <string name="country">Country</string>
+    <string name="instructions">INSTRUCTIONS</string>
+    <string name="dot_loading">...</string>
+    <string name="Ingredients">DETAILS</string>
+    <string name="youtube">YOUTUBE</string>
+    <string name="source">SOURCE</string>
+    <string name="favorite">Favorite</string>
+
+</resources>
